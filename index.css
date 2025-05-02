@@ -1,0 +1,58 @@
+
+.a{
+    width: 50px;
+border: 5px solid blue;
+border-radius: 5px;
+color: black;
+background-color: aquamarine;
+margin: 1px ;
+}
+.b{
+    width: 50px;
+border: 5px solid blue;
+border-radius: 5px;
+color: black;
+background-color: blueviolet; 
+margin-top: 0px;
+}
+.c{
+    width: 50px;
+border: 5px solid blue;
+border-radius: 5px;
+color: black; 
+background-color: brown;
+margin-top: 0px;
+
+}
+.d{
+    width: 50px;
+    border: 5px solid blue;
+    border-radius: 5px;
+    color: black;
+    background-color: chartreuse;
+   margin-top: 0px;
+
+    
+}
+.E{
+    width: 50px;
+    margin-top:200px 200px;
+}
+.k{
+    width: 150px;
+    margin: 10px 100px;
+    
+}
+.l{
+    margin-left: 200px;
+    
+}
+.m{
+    margin-left:300px ;
+    
+}
+.n{
+    margin-left: 400px;
+
+}
+
